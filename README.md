@@ -41,6 +41,3 @@ Checklist de Entrega — Fase 1:
 - [✔] Imagens otimizadas e organizadas
 - [✔] Formulário completo com validação e máscaras
 - [✔] Repositório público no GitHub com todos os arquivos
-
-1. Acesse o repositório: [Experienciapraticai](https://github.com/malysommcm/Experienciapratica1)
-2. Clique nos arquivos `.html` e selecione “Visualizar página da web” ou baixe o repositório e abra os arquivos localmente no navegador.
